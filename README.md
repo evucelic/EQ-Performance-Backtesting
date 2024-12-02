@@ -1,2 +1,2 @@
 # EQ-Performance-Backtesting
-Backtesting performance of the equilibrium model from modern portfolio theory
+Ispitivanje performansi ekvilibrijskog modela za procjenu očekivanih povrata na povijesnim podacima
