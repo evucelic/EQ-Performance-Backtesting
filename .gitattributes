@@ -1,2 +1,1 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-US_stock_backtest/characteristics_data_feb2017.csv filter=lfs diff=lfs merge=lfs -text
